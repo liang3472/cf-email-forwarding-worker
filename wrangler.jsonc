@@ -11,12 +11,12 @@
 		"enabled": true
 	},
 	"vars": {
-		"APP_API_URL": "https://wr.do/api/v1/email-catcher"
+		"APP_API_URL": "https://50fd321ab745bab02e9c1eca686fed13.r2.cloudflarestorage.com/my-bucket"
 	},
 	"r2_buckets": [
 		{
 			"binding": "R2_BUCKET",
-			"bucket_name": "wremail"
+			"bucket_name": "my-bucket"
 		}
 	]
 	/**
